@@ -1,5 +1,5 @@
 '''
-    A037 Add Digits
+    A037 Self Dividng Numbers
     Find self-dividing number which is a number that is divisible by every digit it contains
     e.g. 128 -> 128 % 1 == 0, 128 % 2 == 0, 128 % 8 == 0
     Given left and right, return a list of all the self-dividng numbers in the range [left, right]
