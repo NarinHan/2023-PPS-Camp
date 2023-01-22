@@ -4,6 +4,7 @@
     and ends at the index of the first occurrence of ch (inclusive). 
     If the character ch does not exist in word, do nothing.
     e.g. word = 'abcdefd', ch = 'd' -> result = 'dcbaefd' : first occurence of 'd' is at index 3, so reverse the from 0 to 3
+    https://leetcode.com/problems/reverse-prefix-of-word/
 '''
 
 word = input()
